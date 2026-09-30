@@ -7,7 +7,8 @@
 
 <!-- badges: end -->
 
-The goal of MockRepository2 is to …
+The goal of MockRepository2 is to show a class example of how to make
+changes …
 
 What is special about using `README.Rmd` instead of just `README.md`?
 You can include R chunks like so:
